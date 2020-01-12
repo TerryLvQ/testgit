@@ -1,2 +1,2 @@
 hello world git
-bug修复完成
+功能完善进行中 完成
