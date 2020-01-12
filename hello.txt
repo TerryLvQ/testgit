@@ -1,1 +1,2 @@
 hello world git
+bug修复完成
